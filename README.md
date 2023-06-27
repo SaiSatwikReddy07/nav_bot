@@ -43,10 +43,18 @@ Our project develops a simulated environment for a 4-wheeled robot with advanced
 
 ## Simulation Visuals
 ----
+* Sign Board Classification <br/>
+![Screenshot from 2023-06-27 17-34-20](https://github.com/SaiSatwikReddy07/NavBot/assets/109800395/4694f3be-00f3-4778-8781-c7b1854d1128) <br/>
+* rviz2 <br/>
+![Screenshot from 2023-06-27 17-23-54](https://github.com/SaiSatwikReddy07/NavBot/assets/109800395/5eabf78d-1cca-46d6-a0ee-498f4d41a81e) <br/>
+* World <br/>
+![Screenshot from 2023-06-27 17-22-50](https://github.com/SaiSatwikReddy07/NavBot/assets/109800395/97ed6acb-5ca1-4b96-8681-a9060e915ad5) <br/>
+* Stop Sign <br/>
+![Screenshot from 2023-06-27 17-23-21](https://github.com/SaiSatwikReddy07/NavBot/assets/109800395/8c81a4a0-433b-44e7-9ccf-40777044b03c) <br/>
 
 ## Demonstration Video
 ----
 
-## Real Life Application
+## Real-Life Application
 ----
 * Autonomous Driving Cars
