@@ -8,6 +8,7 @@
     <li><a href="#Repository-Tree">Repository Tree</a></li>
     <li><a href="#Simulation-Visuals">Simulation Visuals</a></li>
     <li><a href="#Demonstration-Video">Demonstration Video</a></li>
+    <li><a href="#Real-Life-Applications">Real Life Applications</a></li>
   </ol>
 </details>
 
@@ -21,7 +22,7 @@ Our project develops a simulated environment for a 4-wheeled robot with advanced
 * Ubuntu 22.04 
 * ROS2 - Humble
 * Python 3
-* Opencv 4.2
+* Opencv 4
 * Yolov5
 * Gazebo 11.10.2
 * rviz2
@@ -38,3 +39,6 @@ Our project develops a simulated environment for a 4-wheeled robot with advanced
 ## Demonstration Video
 ----
 
+## Real Life Applications
+----
+* Autonomous Driving Cars
