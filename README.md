@@ -28,6 +28,9 @@ Our project develops a simulated environment for a 4-wheeled robot with advanced
 * rviz2
 ## Usage
 ----
+<code>
+ros2 launch nav_bot launch_sim.launch.py world:=navbot.world
+</code> 
 
 ## Repository Tree
 ----
