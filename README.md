@@ -29,7 +29,9 @@ Our project develops a simulated environment for a 4-wheeled robot with advanced
 ## Usage
 ----
 1. Run the following code after changing the directory to the path where the world file is located. <br/>
-<code> ros2 launch nav_bot launch_sim.launch.py world:=navbot.world </code> 
+<code>ros2 launch nav_bot launch_sim.launch.py world:=navbot.world</code>
+2. Open a new terminal in workspace directory, and run the following code: <br/>
+<code>ros2 launch nav_bot online_async_launch.py params_file:=./src/nav_bot/config/mapper_params_online_async.yaml use_sim_time:=true</code>
 
 ## Repository Tree
 ----
