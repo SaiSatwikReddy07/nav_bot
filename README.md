@@ -23,11 +23,14 @@ Our project develops a simulated environment for a 4-wheeled robot with advanced
 * Python 3
 * Opencv 4.2
 * Yolov5
+* Gazebo 11.10.2
+* rviz2
 ## Usage
 ----
 
 ## Repository Tree
 ----
+![image](https://github.com/SaiSatwikReddy07/NavBot/assets/109800395/6458b364-5a7d-4526-b216-192e8825bd88)
 
 ## Simulation Visuals
 ----
