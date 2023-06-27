@@ -36,7 +36,7 @@ Our project develops a simulated environment for a 4-wheeled robot with advanced
 <code>ros2 launch nav2_bringup navigation_launch.py use_sim_time:=true</code> <br/>
 4. Open a new terminal in /yolobot_recognition/scripts/, and run the following code: <br/>
 <code>python3 ros_recognition_yolo.py</code> <br/>
-5. The locations of serialized files nav_bot.posegraph and nav_bot.data should be provided in 'mappers_params_online_async.yaml'.
+5. The locations of serialized files nav_bot.posegraph and nav_bot.data should be provided inside the variable 'map_file_name' in the file  'mappers_params_online_async.yaml'.
   
 ## Repository Tree
 ----
