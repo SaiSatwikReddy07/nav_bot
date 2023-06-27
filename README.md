@@ -18,7 +18,11 @@ Our project develops a simulated environment for a 4-wheeled robot with advanced
 
 ## Pre-requisites
 ----
-
+* Ubuntu 22.04 
+* ROS2 - Humble
+* Python 3
+* Opencv 4.2
+* Yolov5
 ## Usage
 ----
 
