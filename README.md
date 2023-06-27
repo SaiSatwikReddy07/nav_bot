@@ -39,6 +39,6 @@ Our project develops a simulated environment for a 4-wheeled robot with advanced
 ## Demonstration Video
 ----
 
-## Real Life Applications
+## Real Life Application
 ----
 * Autonomous Driving Cars
