@@ -28,7 +28,7 @@ Our project develops a simulated environment for a 4-wheeled robot with advanced
 * rviz2
 ## Usage
 ----
-1. Run the following code after changing the directory to the path where the world file is located.
+1. Run the following code after changing the directory to the path where the world file is located. <br/>
 <code> ros2 launch nav_bot launch_sim.launch.py world:=navbot.world </code> 
 
 ## Repository Tree
