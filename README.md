@@ -36,7 +36,8 @@ Our project develops a simulated environment for a 4-wheeled robot with advanced
 <code>ros2 launch nav2_bringup navigation_launch.py use_sim_time:=true</code> <br/>
 4. Open a new terminal in /yolobot_recognition/scripts/, and run the following code: <br/>
 <code>python3 ros_recognition_yolo.py</code> <br/>
-
+5. The locations of serialized files nav_bot.posegraph and nav_bot.data should be provided in 'mappers_params_online_async.yaml'.
+  
 ## Repository Tree
 ----
 ![image](https://github.com/SaiSatwikReddy07/NavBot/assets/109800395/6458b364-5a7d-4526-b216-192e8825bd88)
